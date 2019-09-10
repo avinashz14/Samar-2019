@@ -75,6 +75,21 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem; }
+  
+  .circle {
+    width: 230px;
+    height: 230px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 115px;
+    border-width: 4px;
+    border-color: white;
+    border-style: solid;
+    color: white;
+    padding: 65px 5px;
+    text-align: center;
+    font-family: "League Spartan";
+}
 
 abbr[title],
 abbr[data-original-title] {
@@ -9013,7 +9028,7 @@ h1, h2, h3, h4, h5,
     display: block;
     width: 100%;
     position: relative;
-    webkit-box-shadow: -25px -25px 41px -38px rgba(0, 0, 0, 0.59);
+    -webkit-box-shadow: -25px -25px 41px -38px rgba(0, 0, 0, 0.59);
     -moz-box-shadow: -25px -25px 41px -38px rgba(0, 0, 0, 0.59);
     -webkit-box-shadow: -25px -25px 41px -38px rgba(0, 0, 0, 0.59);
     box-shadow: -25px -25px 41px -38px rgba(0, 0, 0, 0.59); }
