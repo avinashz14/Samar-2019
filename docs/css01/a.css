@@ -10,6 +10,12 @@ body{
   background-color: #f6f6f6;
   font-family:fantasy;
 }
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
 
 .nav-item {
   padding-right: 40px;
